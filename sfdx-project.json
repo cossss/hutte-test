@@ -1,0 +1,18 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "package": "MijnARAG",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
+    }
+  ],
+  "name": "lwr-community",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "58.0",
+  "packageAliases": {
+    "MijnARAG": "0Ho7T0000004C9SSAU"
+  }
+}
